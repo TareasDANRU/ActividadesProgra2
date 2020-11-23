@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\ParcialMVC\ParcialLamda\bin\Debug\ParcialLamda.exe.config
+C:\Users\Daniel\Desktop\ParcialMVC\ParcialLamda\bin\Debug\ParcialLamda.exe
+C:\Users\Daniel\Desktop\ParcialMVC\ParcialLamda\bin\Debug\ParcialLamda.pdb
+C:\Users\Daniel\Desktop\ParcialMVC\ParcialLamda\obj\Debug\ParcialLamda.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ParcialMVC\ParcialLamda\obj\Debug\ParcialLamda.exe
+C:\Users\Daniel\Desktop\ParcialMVC\ParcialLamda\obj\Debug\ParcialLamda.pdb
