@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\IntroduccionMVC\IntroduccionMVC\Lamda\bin\Debug\Lamda.exe.config
+C:\Users\Daniel\Desktop\IntroduccionMVC\IntroduccionMVC\Lamda\bin\Debug\Lamda.exe
+C:\Users\Daniel\Desktop\IntroduccionMVC\IntroduccionMVC\Lamda\bin\Debug\Lamda.pdb
+C:\Users\Daniel\Desktop\IntroduccionMVC\IntroduccionMVC\Lamda\obj\Debug\Lamda.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\IntroduccionMVC\IntroduccionMVC\Lamda\obj\Debug\Lamda.exe
+C:\Users\Daniel\Desktop\IntroduccionMVC\IntroduccionMVC\Lamda\obj\Debug\Lamda.pdb
